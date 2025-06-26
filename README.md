@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Abdul-Saidat/Social-links-profile)
+- Live Site URL: [live site URL](https://social-links-profile-vert-eight.vercel.app/)
 
 
 ## My process
@@ -45,8 +45,6 @@ Users should be able to:
 I got to further understand where and how to apply the CSS margin property.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Abdul-Saidat](https://www.frontendmentor.io/profile/Abdul-Saidat)
+- Twitter - [@Sahhyddahabdul](https://www.twitter.com/Sahhyddahabdul)
 
